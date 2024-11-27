@@ -1,12 +1,6 @@
 {
-  "name": "stripe-donations",
+  "name": "test-project",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "start": "vercel dev"
-  },
-  "dependencies": {
-    "stripe": "^12.0.0"
-  }
+  "license": "MIT"
 }
